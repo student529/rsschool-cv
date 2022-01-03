@@ -13,10 +13,10 @@ I have a basic skills in programming. But I am studing.
 ## Code Example 
 ```
 <div class="er">
-okdof
+sage
 </div>
 <div class="re">
-    saqe
+    page
 </div>
 <style>
     .er{
