@@ -1,1 +1,27 @@
-# hello again
+.font-family{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:normal
+
+}
+.background{
+    background-color: rgb(232, 232, 236);
+    width: 15rem;
+    font-size: 14px;
+}
+footer{
+    background-color: rgb(226, 236, 183);
+    height: auto;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.year{
+    font-size: 17px;
+        }
+h1{
+    background-color: limegreen;
+    padding: 10px;
+}
